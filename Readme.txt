@@ -5,3 +5,5 @@ In order to run the java.js file in terminal just write the following command in
 node java.js 
 
 and this will show the output of the javascript file 
+
+here "java.js" is the name of the javascript file
